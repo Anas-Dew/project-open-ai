@@ -4,7 +4,7 @@ It's a tool to ask anything from voice prompt to open ai and also save the text 
 
 ## How to setup?
 > Python3 and other required libraries must be installed to run application properly. See `requirements.txt` file to install all libraries
-1. Create an [Open AI]() account and get your api key.
+1. Create an [Open AI](https://beta.openai.com/playground) account and get your api key.
 2. Clone this repository into your system.
 3. Put that api key into `data/apikey.txt` file.
 4. Run `gui.py` file in your system.
