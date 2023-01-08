@@ -68,7 +68,7 @@ tick.pack()
 download_button = ttk.Button(text="Ask Me", command=download_file)
 download_button.pack(pady=50)
 
-cred = ttk.Label(text="Fun Side Project by Anas Dew")
+cred = ttk.Label(text="github.com/Anas Dew")
 cred.pack(anchor='s', pady=3, side="bottom")
 
 root.mainloop()
